@@ -1,5 +1,5 @@
-milk
-bread
-water
-chicken
-ranch sauce
+milk x 2
+bread x 2
+water x 4
+chicken x 2 
+ranch sauce x 3
