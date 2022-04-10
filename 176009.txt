@@ -1,0 +1,52 @@
+4. git clone https://github.com/AleksandraGjurevska/SI_2022_lab1_176009.git
+   cd SI_2022_lab1_176009
+5. touch shopping_list.txt
+   git add shopping_list.txt
+   git status
+   git commit -m "Add 5 items to the shopping list"
+6. git status
+   git add shopping_list.txt
+   git commit -m "Add 5 quantities to the items"
+7. git branch branch1
+   git branch branch2
+8. git log
+commit 2cce98f375f0fe5d39c9c06624cd78b8a5c7a804 (HEAD -> master, origin/master, origin/HEAD, branch2, branch1)
+Author: AleksandraGjurevska <aleksandra.gjurevska10@gmail.com>
+Date:   Sun Apr 10 17:46:50 2022 +0200
+
+    Add 5 quantities to the shopping list
+
+commit 024c088db9821c4f61087e5ca2c91753d3bdf33b
+Author: AleksandraGjurevska <aleksandra.gjurevska10@gmail.com>
+Date:   Sun Apr 10 17:45:26 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit 2e591957d582f08d62b349c71148a0b3ad8d4c99
+Author: AleksandraGjurevska <102830033+AleksandraGjurevska@users.noreply.github.com>
+Date:   Sun Apr 10 17:40:01 2022 +0200
+
+    Update README.md
+
+commit 17bc871520d1ec483b1300e669e7b48ac3010bb7
+Author: AleksandraGjurevska <102830033+AleksandraGjurevska@users.noreply.github.com>
+:
+q to get out of git log command
+
+9. git push
+10. git checkout branch1
+11. git add shopping_list.txt
+    git commit -m "Change quantity of item #5"
+12. git checkout master
+13. git add shopping_list.txt
+    gi commit -m "Change quantity of item #2"
+14. git push
+15. git checkout branch2
+
+
+20. git checkout master
+21. 
+22. git add 176009.txt
+    git commit -m "Add docs"
+
+23. git push
